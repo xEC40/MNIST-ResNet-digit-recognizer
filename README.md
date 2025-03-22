@@ -1,3 +1,4 @@
+![MNIST_ResNet](MNIST_resnet.gif)
 # MNIST Live Digit Recognition with a Residual Neural Network
 
 A deep learning project for handwritten digit recognition using a custom ResNet-based Convolutional Neural Network architecture trained on the MNIST dataset. This application features an interactive drawing interface that allows users to draw digits and receive real-time predictions.
